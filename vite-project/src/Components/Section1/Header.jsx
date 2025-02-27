@@ -5,8 +5,8 @@ import Color from '../../assets/colors.png';
 const Header = () => {
     return (
         <>
-            <div className='relative w-[100%] h-[115vh] bg-cover bg-top  m-0 p-0' style={{ backgroundImage: `url(${Hero})` }}>
-                <nav className='flex justify-between items-center border-[1.5px] border-gray-300 rounded-[10px] absolute w-[1260px] h-[70px] px-[25px] py-[20px] top-[30px] left-[50px]'>
+            <div className='relative w-[100%] h-[115vh] bg-cover bg-top  m-0 p-0' style={{ backgroundImage: `url(${Hero})` }} >
+                <nav className='flex justify-between items-center border-[1.5px] border-gray-300 rounded-[10px]  w-[1260px] h-[70px] px-[25px] py-[20px] top-[30px] relative mx-auto '>
 
                     <div className='flex w-[123px] h-[40px] justify-between items-center'>
                         <div>
