@@ -8,7 +8,7 @@ const Work = () => {
   return (
     <>
       <div className='relative w-[100%] h-[524px] bg-[#FFFFFF]'>
-        <div className='w-[900px] h-[454px] absolute left-[219px] bg-[#F9FAFC]'><h1 className="font-poppins font-medium text-[56px] leading-[61.6px] text-center">How it works</h1></div>
+        <div className='w-[900px] h-[454px] relative mx-auto bg-[#F9FAFC]'><h1 className="font-poppins font-medium text-[56px] leading-[61.6px] text-center">How it works</h1></div>
         <div className="flex gap-12 absolute w-[1040px] top-[134px] left-[148px] z-10">
           <div className="w-[350px] h-[230px] pt-[30px] pl-[30px] pb-[30px] bg-white rounded-[16px]">
             <img src={Earth} alt="Icon" />
