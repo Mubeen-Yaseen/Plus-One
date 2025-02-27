@@ -27,7 +27,7 @@ const Header = () => {
                     </button>
 
                 </nav>
-                <div className=" absolute w-[600px] h-[400px] py-[40px] px-[56px] rounded-[24px] bg-[linear-gradient(124.42deg,rgba(0,0,0,0.675)_5.12%,rgba(0,0,0,0.2625)_102.99%)] top-[25%] left-[25%] text-white">
+                <div className=" relative mx-auto w-[600px] h-[400px] py-[40px] px-[56px] rounded-[24px] bg-[linear-gradient(124.42deg,rgba(0,0,0,0.675)_5.12%,rgba(0,0,0,0.2625)_102.99%)] top-[17%] text-white">
 
                     <div className="flex flex-col justify-between h-full items-start gap-6">
                         <img src={Color} alt="Color-Block" className="w-[80px] h-[16px]" />
