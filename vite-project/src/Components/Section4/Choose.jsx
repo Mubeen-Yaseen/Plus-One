@@ -12,7 +12,7 @@ const Choose = () => {
                 <h1 className='text-center text-[56px]'>Why Choose Us</h1>
 
                 <div className='w-[100%] h-[546px] '>
-                    <div className='w-[1222px] h-[446px] relative top-[100px] left-[70px]'>
+                    <div className='w-[1222px] h-[446px] relative top-[100px] mx-auto'>
                         <div className='w-[1222px] h-[274px] flex gap-[42px]'>
                             <div className='w-[590px] h-[274px] gap-[60px]'>
                                 <div className='w-[590px] h-[116px] flex gap-[32px] mb-[50px]'>
